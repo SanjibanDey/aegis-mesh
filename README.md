@@ -1,3 +1,4 @@
+**[Read the formal systems architecture whitepaper (DOI)](https://doi.org/10.5281/zenodo.22801914)**
 # Aegis-Mesh
 
 Offline-first, decentralized state synchronization engine for disaster
